@@ -1,0 +1,3 @@
+com/swagger/SwaggerApplication.class
+com/swagger/domain/Greeting.class
+com/swagger/controller/CheckController.class
